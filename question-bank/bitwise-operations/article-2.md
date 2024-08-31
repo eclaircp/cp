@@ -1,6 +1,6 @@
 # Chloe and the sequence
 
-## (Problem Link)[https://codeforces.com/problemset/problem/743/B]
+## [Problem Link](https://codeforces.com/problemset/problem/743/B)
 
 ## Code
 
