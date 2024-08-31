@@ -1,6 +1,6 @@
 # Friendly Arrays
 
-## (Problem Link)[https://codeforces.com/problemset/problem/1870/B]
+## [Problem Link](https://codeforces.com/problemset/problem/1870/B)
 
 ## Code
 
