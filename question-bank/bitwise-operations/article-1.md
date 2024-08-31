@@ -1,6 +1,6 @@
 # Make Almost Equal With Mod
 
-## (Problem Link)[https://codeforces.com/problemset/problem/1909/B]
+## [Problem Link](https://codeforces.com/problemset/problem/1909/B)
 
 ## Code
 
