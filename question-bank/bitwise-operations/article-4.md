@@ -1,6 +1,6 @@
 # StORage Room
 
-## (Problem Link)[https://codeforces.com/problemset/problem/1903/B]
+## [Problem Link](https://codeforces.com/problemset/problem/1903/B)
 
 ## Code
 
