@@ -1,6 +1,6 @@
 # Same Parity Summands
 
-## (Problem Link)[https://codeforces.com/problemset/problem/1352/B]
+## [Problem Link](https://codeforces.com/problemset/problem/1352/B)
 
 ## Code
 ```cpp
